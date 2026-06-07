@@ -1,3 +1,7 @@
+*Readme for class project specifications, most important code lives in pang.py and objects.py
+
+
+
 SECTIONS:
 ELEVATOR PITCH AND DETAILED OVERVIEW
 KEY FEATURES
